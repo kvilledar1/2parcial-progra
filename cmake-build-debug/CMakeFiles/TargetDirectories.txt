@@ -1,0 +1,3 @@
+C:/Users/Alfredo Villeda/Desktop/parcial 06.05.23/cmake-build-debug/CMakeFiles/parcial_06_05_23.dir
+C:/Users/Alfredo Villeda/Desktop/parcial 06.05.23/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alfredo Villeda/Desktop/parcial 06.05.23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
